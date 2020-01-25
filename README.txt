@@ -1,5 +1,7 @@
 Gustavo Adolfo Tabima Luque	
 
-Tercer Semestre ingenier�a de Sistemas
+Tercer Semestre ingeniería de Sistemas
 
 201914586
+
+Ya aquí se hacen los generics
